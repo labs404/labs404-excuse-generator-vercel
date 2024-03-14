@@ -1,6 +1,6 @@
 # Simple Excuse Generator Project
 
-![alt text](https://github.com/labs404/workspaces/labs404-excuse-generator-vercel/src/img/snapshot.png)
+![demo image](https://raw.githubusercontent.com/labs404/labs404-excuse-generator-vercel/main/src/img/snapshot.png)
 
 ## View this app live!
 
