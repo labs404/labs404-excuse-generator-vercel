@@ -10,3 +10,23 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+
+body {
+    background-color: #333333;
+}
+
+h1 {
+    color: #880000;
+    font-weight: 400;
+}
+
+img {
+    width: 30%;
+    border: 0px;
+    padding: 0px;
+}
+
+.jaysBlackBorder {
+    border: solid 3px #000000 !important;
+}
+  
